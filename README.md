@@ -5,5 +5,7 @@ It is server site coding which represents a basic flipKart Clone
 used MongoDB
 # For Server Site Coding
 used NodeJs and ExpressJs
+# For Deployment
+used (https://render.com/)
 # Full Website Link
 (https://flipkart-demo-clone.netlify.app/)

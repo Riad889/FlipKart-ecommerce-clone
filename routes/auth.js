@@ -1,11 +1,11 @@
 const express=require('express');
 const router=express.Router();
-const {signUp,LoginUser}=require('./controllers/user-controllers');
+const {signUp,LoginUser}=require('../controllers/user-controllers');
 const {
   getAllProducts,
   getSpecificProduct,
   addProduct
-} = require("./controllers/product-contollers");
+} = require("../controllers/product-contollers");
 
 //homePage
 //signUp
